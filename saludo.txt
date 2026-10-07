@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola desde mi rama nueva
+=======
+hola desde github.
+>>>>>>> d268a39fd2ab2f1110e78b955a364147c4ddc8d4
